@@ -31,21 +31,21 @@ You may also see any lint errors in the console.
 ### Creating a Vercel Account
 1. Navigate to https://vercel.com/ 
 2. Sign up with your Github account: 
-    a. Click Signup in upper right hand corner
-    b. Select “Hobby” for plan type
-    c. Enter name and press continue
-    d. Select “Continue with GitHub” 
-        i. Log in to Github via the prompt
-        ii. Click “Authorize Vercel” and follow any verification instructions
+    - Click Signup in upper right hand corner
+    - Select “Hobby” for plan type
+    - Enter name and press continue
+    - Select “Continue with GitHub” 
+        - Log in to Github via the prompt
+        - Click “Authorize Vercel” and follow any verification instructions
 3. Once you have successfully registered, you should see the option to either Install or Import Project via git provider
-    a. If it says install Github, go through the installation instructions
-    b. You may choose to install all repositories or only the one you wish to deploy
+    - If it says install Github, go through the installation instructions
+    - You may choose to install all repositories or only the one you wish to deploy
 
 
 ### React and HTML/CSS Deployment with Vercel
 1. Navigate to https://vercel.com/
 2. Login or create a Vercel account as detailed above 
 3. Select the github repo you wish to deploy and choose “Import”.
-    a. You will be greeted with a Configure Project page. You do not need to change the Build and Output Settings or Environment Variables. Simply name your project and select “Deploy”.
-    b. You will see a loading icon while the deployment is processing. When the deployment is complete, you will see a success message.
-    c. Click “Continue to Dashboard” in order to view your website url, which will look something like xxx.vercel.app under the Domains heading (not to be confused with the Deployment url).
+    - You will be greeted with a Configure Project page. You do not need to change the Build and Output Settings or Environment Variables. Simply name your project and select “Deploy”.
+    - You will see a loading icon while the deployment is processing. When the deployment is complete, you will see a success message.
+    - Click “Continue to Dashboard” in order to view your website url, which will look something like xxx.vercel.app under the Domains heading (not to be confused with the Deployment url).
